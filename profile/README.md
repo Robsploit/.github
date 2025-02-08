@@ -10,8 +10,8 @@ Find RobloxExploits [here](https://github.com/404PageN0tFound/RobloxExploits).
 Find FreshUI [here](https://github.com/Robsploit/Soon/blob/main/README.md).
 
 ## Stuff in development 🧑‍💻
-[Ro AC] (A Roblox Game Anticheat (Ro meaning Robsploit; AC meaning Anticheat))
+[Ro AC](https://github.com/Robsploit/Ro-AC) (A Roblox Game Anticheat (Ro meaning Robsploit; AC meaning Anticheat))
 <br>
-[Ro M](https://github.com/Robsploit/Ro-M) (A Roblox Executor for Mac (Ro meaning Robsploit; M meaning Mac))
+[Ro M](https://github.com/Robsploit/Ro-M) (A Roblox Executor for Mac, discontinued soon (Ro meaning Robsploit; M meaning Mac))
 <br>
-[Ro W](https://github.com/Robsploit/Soon/blob/main/README.md) (A Roblox Executor for Windows (Development starting after Ro M))
+[Ro W](https://github.com/Robsploit/Soon/blob/main/README.md) (A Roblox Executor for Windows, development completely ceased. (Development starting after Ro M))
