@@ -1,5 +1,5 @@
 ## Hi there, we're Robsploit 👋
-We make Roblox Executors for Mac. Developed by the same creator which made [RobloxExploits](https://github.com/404PageN0tFound/RobloxExploits) and [Rounded Hub (discontinued)](https://github.com/404PageN0tFound/RoundedHub) 
+We make Cheats & Cheat Prevention for Roblox. Developed by the same creator which made [RobloxExploits](https://github.com/404PageN0tFound/RobloxExploits) and [Rounded Hub (discontinued)](https://github.com/404PageN0tFound/RoundedHub) 
 
 ## RobloxExploits and FreshUI is now a part of the Robsploit family! 🎊
 Find RobloxExploits [here](https://github.com/404PageN0tFound/RobloxExploits).
